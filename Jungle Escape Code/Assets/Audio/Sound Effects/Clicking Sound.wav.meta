@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream:Game Engines Group Project/Assets/Audio/Sound Effects/Clicking Sound.wav.meta
+guid: ea2cd48667f795e40bf8ae378c76e6c3
+=======
+guid: bd9c81fc99a79ee4eabe33aad06ed26d
+>>>>>>> Stashed changes:Game Engines Group Project/Assets/Audio/Sound Effects/Player Getting Hurt Sound.mp3.meta
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

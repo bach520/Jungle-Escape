@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pickup
+  - Bush
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Bush
+  - PickUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 368628465
+    locked: 0
+  - name: platform
+    uniqueID: 1218899791
+    locked: 0
+  - name: bush
+    uniqueID: 1668980423
+    locked: 0
+  - name: player
+    uniqueID: 2160105929
+    locked: 0
+  - name: pickups
+    uniqueID: 376266733
+    locked: 0
+  - name: enemy
+    uniqueID: 3147577965
+    locked: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650ad4162204f4d40905a6c2e75aa04c, type: 3}
+  m_Name: Jaguar 5
+  m_EditorClassIdentifier: 
+  currentHealth: 50
+  maxHealth: 50
+  characterImage: {fileID: 21300000, guid: d3589f40a717e5a4ca04940376903d99, type: 3}
+  speed: 1
+  damage: 10
+  characterName: Jaguar
+  playAudio: 1
+  TimeBetweenAttacks: 1.5

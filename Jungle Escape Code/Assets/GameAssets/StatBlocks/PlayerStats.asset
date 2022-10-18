@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650ad4162204f4d40905a6c2e75aa04c, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  currentHealth: 0
+  maxHealth: 100
+  characterImage: {fileID: -8629068370403179916, guid: 9f4aeec70c587214f82b74ce1b1d1415, type: 3}
+  speed: 3
+  damage: 0
+  characterName: Player
+  playAudio: 0
+  TimeBetweenAttacks: 1.5
