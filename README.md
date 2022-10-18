@@ -1,1 +1,1 @@
-# Group_Project
+# This is a team project. The code I was responsible for can be found in "My code folder"
